@@ -180,8 +180,8 @@ export default {
 }
 /* 导航栏logo图片 */
 #header .header-nav .header-nav-logo img {
-  width: 95px;
-  height: 45px;
+  width: 54px;
+  height: 54px;
   position: absolute;
   top: 0;
   left: 0;

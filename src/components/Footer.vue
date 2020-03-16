@@ -33,8 +33,8 @@ export default {
   text-align: center;
 }
 .logo {
-  width: 95px;
-  height: 45px;
+  width: 54px;
+  height: 54px;
   margin: 50px auto 20px;
 }
 .title {
